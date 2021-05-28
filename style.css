@@ -1,0 +1,24 @@
+h1{
+    color:aqua       
+}
+/* *{
+   border: solid; 
+} */
+.header{
+    background-color: lime;
+    display:flex;
+    justify-content: space-between;
+    
+}
+.grid{
+    display:flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.footer{
+    display: flex;
+    justify-content: flex-start;
+}
+p,h2{
+    text-align: center;
+}
